@@ -1,0 +1,3 @@
+class LinkedList(object):
+
+    pass
